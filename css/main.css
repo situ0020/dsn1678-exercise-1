@@ -30,21 +30,26 @@ img {
   width: 100%;
 }
 
-.image {
-	margin-bottom: 2rem;
+.figure figure{
+	margin: 0;
 }
 
-.blockquote {
+.figcaption {
 	color: white;
 	margin: -4rem 1rem 2rem;
 }
-	
-.content {
-	margin: 1rem;
+
+.content h1 {
+	margin-left: 3%;
+	font-size: 1.5rem;
+}
+
+.tableheading th {
+	color: #B3B3B3;
 }
 
 .tableheading {
-	color: #B3B3B3;
+	padding-left: 2%;
 }
 
 .table th, tr {
@@ -53,4 +58,14 @@ img {
 
 .table th {
 	font-size: .875rem;
+}
+
+.table {
+	margin-left: 3%;
+	border-collapse: collapse;
+	text-align: left;
+}
+
+.line {
+	border-right: 2px solid #B3B3B3;
 }
