@@ -42,18 +42,16 @@ img {
 .content h1 {
 	margin-left: 3%;
 	font-size: 1.5rem;
+	margin-top: 5%;
 }
 
 .tableheading th {
 	color: #B3B3B3;
 }
 
-.tableheading {
-	padding-left: 2%;
-}
-
-.table th, tr {
+.table th, td {
 	padding-right: 3rem;
+	padding-left: .5rem;
 }
 
 .table th {
@@ -61,7 +59,7 @@ img {
 }
 
 .table {
-	margin-left: 3%;
+	margin-left: 2%;
 	border-collapse: collapse;
 	text-align: left;
 }
