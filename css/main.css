@@ -30,7 +30,19 @@ img {
   width: 100%;
 }
 
+.image {
+	margin-bottom: 2rem;
+}
+
 .blockquote {
 	color: white;
+	margin: -4rem 1rem 2rem;
 }
 	
+.content {
+	margin: 1rem;
+}
+
+.tableheading {
+	color: #B3B3B3;
+}
