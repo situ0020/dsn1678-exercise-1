@@ -46,3 +46,11 @@ img {
 .tableheading {
 	color: #B3B3B3;
 }
+
+.table th, tr {
+	padding-right: 3rem;
+}
+
+.table th {
+	font-size: .875rem;
+}
